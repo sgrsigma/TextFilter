@@ -6,18 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Candidate Coding assignment .pdf" />
-    <None Remove="empty.txt" />
     <None Remove="example.txt" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="Candidate Coding assignment .pdf">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="empty.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="example.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
